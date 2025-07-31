@@ -1,11 +1,12 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #feda8f;
-  background-image: url("assets/mainbg.png");
+  background-image: url("assets/goodbgg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin: 0;
+  height: 800px;
+  margin: 35px;
   padding: 0;
 }
 
@@ -24,5 +25,9 @@ body {
 }
 
 #valid-css {
+    margin: 10px
+}
+
+#copyright {
     margin: 10px
 }
