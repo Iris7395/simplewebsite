@@ -39,7 +39,7 @@ body {
   padding: 10px 20px;
   text-align: right;
   font-size: 14px;
-  z-index: 1000; /* stays on top of content */
+  z-index: 1000;
 }
 
 #page-footer p {
