@@ -4,7 +4,7 @@ body {
   background-image: url("assets/goodbgg.png");
   background-size: cover;
   background-position: center;
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   min-height: 100vh;
   margin: 35px;
   padding: 0;
@@ -20,6 +20,18 @@ body {
   margin: 40px auto;
 }
 
+#page-footer {
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  text-align: right;
+  font-size: 14px;
+  vertical-align: bottom;
+  margin: 15px;
+}
+
+
+
 #IriskElkIMG {
     border: 15px double yellow
 }
@@ -32,16 +44,8 @@ body {
     margin: 10px
 }
 
-#page-footer {
-  position: fixed;
-  bottom: 0;
-  right: 15px;
-  padding: 10px 20px;
-  text-align: right;
-  font-size: 14px;
-  z-index: 1000;
-}
-
 #page-footer p {
   margin: 0;
 }
+
+
