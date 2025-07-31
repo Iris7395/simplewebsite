@@ -4,7 +4,7 @@ body {
   background-image: url("assets/goodbgg.png");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   height: 800px;
   margin: 35px;
   padding: 0;
