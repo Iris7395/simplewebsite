@@ -1,10 +1,12 @@
 body {
 	background-image: url("assets/goodbgg.png");
-	background-repeat: no-repeat;
+	background-color: #feda8f;
 	background-size: cover;
 	background-position: center;
+	background-repeat: no-repeat;
 	min-height: 100vh;
-	font-family: Arial;
+	margin: 35px;
+	padding: 0;
 }
 
 #welcomeMessage {
