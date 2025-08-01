@@ -1,12 +1,11 @@
 body {
 	background-image: url("assets/goodbgg.png");
-	background-color: #feda8f;
+	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-repeat: no-repeat;
 	min-height: 100vh;
+	font-family: Arial;
 	margin: 35px;
-	padding: 0;
 }
 
 #welcomeMessage {
@@ -18,6 +17,7 @@ body {
     position: fixed;
     bottom: 0;
     right: 0;
+	margin: 35px;
 }
 
 #iriselkimg {
