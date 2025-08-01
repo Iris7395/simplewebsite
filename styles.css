@@ -5,7 +5,7 @@ body {
 	background-position: center;
 	min-height: 100vh;
 	font-family: Arial;
-	margin: 35px;
+	padding: 35px;
 }
 
 #welcomeMessage {
