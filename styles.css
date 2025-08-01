@@ -1,0 +1,23 @@
+body {
+	background-image: url("assets/goodbgg.png");
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	padding: 27px;
+	font-family: Arial;
+}
+
+#welcomeMessage {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#developerRights {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+#iriselkimg {
+	border-style: dashed dotted;
+}
+
